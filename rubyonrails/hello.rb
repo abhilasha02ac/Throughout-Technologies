@@ -1,0 +1,13 @@
+puts "hello, this is abhilasha";
+puts (~5);
+puts(~(-6));
+puts(!true);
+puts(!false);
+puts("add operation");
+puts(10+50);
+puts("multiply");
+puts(30*2);
+puts("expression");
+puts(3**6);
+puts("modulo operation");
+puts(25%2);
