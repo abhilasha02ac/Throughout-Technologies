@@ -1,5 +1,5 @@
 data={"abhilasha"=>"Tout","aashee"=>"Systango","Harshit"=>"WorldPay"}
-#data = {"Akash" => "Physics", "Ankit" => "Chemistry", "Aman" => "Maths"}
+#data = {"shubham" => "Physics", "Ankit" => "Chemistry", "Aman" => "Maths"}
 puts data["abhilasha"]
 puts data["aashee"]
 puts data["Harshit"]
